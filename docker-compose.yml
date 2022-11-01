@@ -1,0 +1,5 @@
+version: '3.1'
+services:
+  cronphp:
+    image: nucreativa/cron-php-alpine
+    build: .
